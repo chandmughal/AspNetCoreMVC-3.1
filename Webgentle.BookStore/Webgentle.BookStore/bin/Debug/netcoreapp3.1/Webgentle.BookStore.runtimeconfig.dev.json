@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Powerbi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Powerbi\\.nuget\\packages"
+    ]
+  }
+}
