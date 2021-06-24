@@ -20,7 +20,7 @@ namespace Webgentle.BookStore.Repository
         //
         public List<BookModel> SearchBook(String Title,String Author)
         {
-            return Datasource().Where(x => x.Title.Contains(Title) && x.Author.Contains(Author)).ToList();
+            return Datasource().Where(x => x.Title.Contains(Title) || x.Author.Contains(Author)).ToList();
         }
 
         private List<BookModel> Datasource()

@@ -17,3 +17,4 @@ E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcorea
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.dll
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.pdb
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.genruntimeconfig.cache
+E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.csproj.AssemblyReference.cache
