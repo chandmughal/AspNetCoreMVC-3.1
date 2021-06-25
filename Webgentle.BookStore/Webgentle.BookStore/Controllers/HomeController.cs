@@ -19,5 +19,10 @@ namespace Webgentle.BookStore.Controllers
             //return "WebGentle";
         }
 
+        public ViewResult ContactUs()
+        {
+            return View();
+            //return "WebGentle";
+        }
     }
 }
