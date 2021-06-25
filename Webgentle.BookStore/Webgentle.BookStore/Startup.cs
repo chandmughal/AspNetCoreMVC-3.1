@@ -31,13 +31,13 @@ namespace Webgentle.BookStore
 
             app.UseRouting();
             //
-            app.UseStaticFiles(new StaticFileOptions()
-            {
-                //FileProvider = new PhysicalFileProvider(Directory.GetCurrentDirectory()+"mystaticfiles")
-                FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory() + "MyStaticFiles")),
-                RequestPath = "/MyStaticFiles"
-            }
-                );
+            //app.UseStaticFiles(new StaticFileOptions()
+            //{
+            //    //FileProvider = new PhysicalFileProvider(Directory.GetCurrentDirectory()+"mystaticfiles")
+            //    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory() + "MyStaticFiles")),
+            //    RequestPath = "/MyStaticFiles"
+            //}
+            //    );
             app.UseStaticFiles();   
             //
             app.UseEndpoints(endpoints =>
