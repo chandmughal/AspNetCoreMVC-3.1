@@ -17,7 +17,6 @@ E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcorea
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.dll
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.pdb
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.genruntimeconfig.cache
-E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.csproj.AssemblyReference.cache
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\Webgentle.BookStore.Views.dll
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.csproj.CopyComplete
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
@@ -104,7 +103,6 @@ E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcorea
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.Views.pdb
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Book\Getallbooks.cshtml.g.cs
-E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\libman.json
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
@@ -393,3 +391,5 @@ E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcorea
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.MvcApplicationPartsAssemblyInfo.cs
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactUs.cshtml.g.cs
+E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\bin\Debug\netcoreapp3.1\libman.json
+E:\Learning\BookStore\Webgentle.BookStore\Webgentle.BookStore\obj\Debug\netcoreapp3.1\Webgentle.BookStore.csproj.AssemblyReference.cache
